@@ -8,6 +8,7 @@ class SpringbootPostgreHibernateApplicationTests {
 
 	@Test
 	void contextLoads() {
+		
 	}
 
 }
